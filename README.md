@@ -1,2 +1,12 @@
-# Udemy-Clone
-A simple, responsive website built with only HTML and CSS as part of a Udemy web development course project.
+# Udemy-Clone HTML & CSS Web Development Project
+
+This repository contains a static website built using only **HTML** and **CSS** as part of a hands-on project from a Udemy web development course. The goal of this project was to practice and apply core front-end skills without using any JavaScript or frameworks.
+
+## 🌐 Live Demo
+(If you plan to deploy it, you can add a link here using GitHub Pages or Netlify)
+> [Live Demo](https://your-username.github.io/your-repo-name)
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- Flexbox & Grid
