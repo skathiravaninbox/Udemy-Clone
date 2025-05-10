@@ -4,7 +4,7 @@ This repository contains a static website built using only **HTML** and **CSS** 
 
 ## 🌐 Live Demo
 (If you plan to deploy it, you can add a link here using GitHub Pages or Netlify)
-> [Live Demo](https://your-username.github.io/your-repo-name)
+> [Live Demo](https://skathiravaninbox.github.io/Udemy-Clone/)
 
 ## 🛠️ Technologies Used
 - HTML5
