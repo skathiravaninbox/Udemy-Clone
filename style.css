@@ -66,21 +66,6 @@ body {
 .navbar__s4 {
     display: none;
 }
-@media screen and (max-width:600px) {
-    .course-card {
-        flex-basis: 40%;
-    }
-
-    .categories,
-    .navbar__s2,
-    .navbar__s3 {
-        display: none;
-    }
-
-    .navbar__s4{
-        display: block;
-    }
-}
 
 /* My Learning popup - new */
 .mylearning {
@@ -265,3 +250,18 @@ body {
 }
 
 
+@media screen and (max-width:600px) {
+    .course-card {
+        flex-basis: 40%;
+    }
+
+    .categories,
+    .navbar__s2,
+    .navbar__s3 {
+        display: none;
+    }
+
+    .navbar__s4{
+        display: block;
+    }
+}
